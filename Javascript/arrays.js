@@ -1,7 +1,4 @@
 //creating an array
-let arr = [1,2,3];
-console.log(arr[0]);
-console.log(arr[1]);
 
 //adding elementd to the end
 arr.push(4);
